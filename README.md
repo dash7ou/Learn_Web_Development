@@ -1,6 +1,6 @@
 ## Start Course
 
-Hi everyone good job to reach here. now we going a head to the next step in our way. 
+Hi everyone good job to reach here. now we are going a head to the next step in our way. 
 
 before you start [this](https://www.youtube.com/watch?gl=GB&hl=en-GB&v=OGg8A2zfWKg) is 6 minute youtube video to introduce you to the concept of the semantic web.
 
@@ -18,6 +18,22 @@ before you start [this](https://www.youtube.com/watch?gl=GB&hl=en-GB&v=OGg8A2zfW
 #### Learning outcome:
 
 * Be familiar with new HTML5 elements.
+
+
+### CSS3
+
+Here we are reviewing the information you learned it with zeroweb then we will go to learning all about CSS3.
+
+#### The main topics
+
+* Position Element
+* Working with image and background
+* Size & Units
+* Making your website responsive
+* Flexbox
+* Grid
+* Transforming Element
+* Animations
 
 ### Authors
 [Mohammed M Zourob](https://github.com/dash7ou): [@dash7ou](https://github.com/dash7ou)
