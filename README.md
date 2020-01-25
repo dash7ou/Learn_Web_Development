@@ -24,6 +24,10 @@ before you start [this](https://www.youtube.com/watch?gl=GB&hl=en-GB&v=OGg8A2zfW
 
 Here we are reviewing the information you learned it with zeroweb then we will go to learning all about CSS3.
 
+after we start with main topics we have to solve problem with codecamp :-
+
+* [basic css ](https://www.freecodecamp.org/learn) 44 point.
+
 #### The main topics
 
 * Position Element
