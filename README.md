@@ -29,14 +29,14 @@ after we start with main topics we have to solve problem with codecamp :-
 * [basic css ](https://www.freecodecamp.org/learn) 44 point.
 
 #### The main topics
-    * Position Element
-    * Working with image and background
-    * Size & Units
-    * Making your website responsive
-    * Flexbox
-    * Grid
-    * Transforming Element
-    * Animations
+* Position Element
+* Working with image and background
+* Size & Units
+* Making your website responsive
+* Flexbox
+* Grid
+* Transforming Element
+* Animations
 
 ##### Position Element:
 
