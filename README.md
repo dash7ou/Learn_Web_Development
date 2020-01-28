@@ -52,5 +52,29 @@ we have three levels to be familer with positions in CSS:
 
 * after you end all that you can read [this artical](https://medium.com/@leannezhang/difference-between-css-position-absolute-versus-relative-35f064384c6) about difference between absolute and relative.
 
+
+#### working with image and background:
+
+* Read this [artical](https://www.w3schools.com/css/css_background.asp) as a start to deal with background.
+
+* After you read first artical read this articals:
+>   1. [background-attachment](https://www.w3schools.com/cssref/pr_background-attachment.asp) 
+    
+>  2. [background-blend-mode](https://www.w3schools.com/cssref/pr_background-blend-mode.asp)
+
+ >   3. [background-clip](https://www.w3schools.com/cssref/css3_pr_background-clip.asp)
+
+>    4. [background-color](https://www.w3schools.com/cssref/pr_background-color.asp) 
+
+ >   5. [background-image](https://www.w3schools.com/cssref/pr_background-image.asp) 
+
+  >  6. [background-origin](https://www.w3schools.com/cssref/css3_pr_background-origin.asp)
+
+ >   7. [background-position](https://www.w3schools.com/cssref/pr_background-position.asp)
+
+  >  8. [background-repeat](https://www.w3schools.com/cssref/pr_background-repeat.asp) 
+
+   > 9. [background-size](https://www.w3schools.com/cssref/css3_pr_background-size.asp)
+
 ### Authors
 [Mohammed M Zourob](https://github.com/dash7ou): [@dash7ou](https://github.com/dash7ou)
