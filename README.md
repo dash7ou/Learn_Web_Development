@@ -76,5 +76,45 @@ we have three levels to be familer with positions in CSS:
 
    > 9. [background-size](https://www.w3schools.com/cssref/css3_pr_background-size.asp)
 
+#### Size & Units
+
+CSS has several units for expressing a length.
+
+here we will learn about two type of unite in css absoulte and relative length.
+
+we will [start with small artical](https://www.w3schools.com/cssref/css_units.asp) to understand the main point of using different units in our projects.
+
+#### The differences between rem, em, px, & vw/vh units
+
+This artical should hopefully help explain the difference between the various size units.
+
+The basics
+##### rem
+rem units are relational to the font-size value of the HTML tag. For example, if the font size of the HTML tag is 16px (that is the default size for an html document), then 1rem unit is equal to 16px. That makes .5rem=8px, 2rem=32px, etc.
+
+##### em
+em units are similar to rem units, but whereas a rem unit always references the HTML tag, an em unit is relational only to it's nearest defined parent element. For example, if the div wrapper for a callout is set to font-size:20px, then any child element set to 1em would be the equivalent of 20px, .5em=10px, 2em=40px, etc.
+
+##### vw & vh
+the vw (view-width) and vh (view-height) units are relational to the viewport size, where 100vw or vh is 100% of the viewport's width/height. For example, if a viewport is 1600px wide, and you specify something as being 2vw, that will be the equivalent of 2% of the viewport width, or 32px.
+
+##### px
+Pixels are defined as a single point in a graphic image, and are often tied to viewport resolution. If a viewport is 1600x90, that typically means that there are 1600px pixel columns & 900 pixel rows, with a pixel in each cell. This definition is maybe overly simple when factoring in dpi or pixel density, but can stand as reference for the most part.
+
+##### Where things get interesting:
+There is a lot of potential between the dynamic units (rem/em/vw/vh) to build extremely responsive controls on a page. One common problem with responsive design is ensuring that text displays & wraps properly as everything around it shrinks and collapses. This is mainly because even if you leverage em/rem units, you are ultimately still referencing a static HTML font size, even if set to 100%.
+
+##### Consider this: 
+
+on a monitor that is 1600px wide, 1vw is equivalent to 16px, which is the same as the default font size on an HTML document. As the viewport grows and shrinks, that vw value will grow and shrink relationally with it. This means that you can set a dynamic size value on the HTML tag, reference it at a component parent level with rem, and then match against that value in the child elements with em. That provides a fairly granular level of control, and a set of elements that proportionally resize according to the viewport. Click Here for an example
+
+after you finish the first artical now we will go deeper to learn it perfectly.
+
+*  [Rem/Em Units](https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984): this artical to understand different between using rem and em and what is the best.
+
+
+
+
+
 ### Authors
 [Mohammed M Zourob](https://github.com/dash7ou): [@dash7ou](https://github.com/dash7ou)
