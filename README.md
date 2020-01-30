@@ -115,8 +115,5 @@ after you finish the first artical now we will go deeper to learn it perfectly.
 * [this artical](https://stackoverflow.com/questions/31039979/css-units-what-is-the-difference-between-vh-vw-and) to understand the different between using vh & vw or %.
 
 
-
-
-
 ### Authors
 [Mohammed M Zourob](https://github.com/dash7ou): [@dash7ou](https://github.com/dash7ou)
