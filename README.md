@@ -115,5 +115,16 @@ after you finish the first artical now we will go deeper to learn it perfectly.
 * [this artical](https://stackoverflow.com/questions/31039979/css-units-what-is-the-difference-between-vh-vw-and) to understand the different between using vh & vw or %.
 
 
+#### Flexbox
+
+the flex css property set how a flex item will grow or shrink to fit the space avalible in its flex container.
+
+to be familer with felx box you will go to throw this articals..
+
+* [W3school flex](https://www.w3schools.com/css/css3_flexbox.asp).
+
+* solve question css [Flexbox freecodecamp](https://www.freecodecamp.org/learn) [17 questions].
+
+
 ### Authors
 [Mohammed M Zourob](https://github.com/dash7ou): [@dash7ou](https://github.com/dash7ou)
