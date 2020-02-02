@@ -133,5 +133,23 @@ The grid CSS property is a shorthand property that sets all of the explicit grid
 * [Grid Container](https://www.w3schools.com/css/css_grid_container.asp)
 * [Grid Items](https://www.w3schools.com/css/css_grid_item.asp)
 * Solve question css [Grid freecodecamp](https://www.freecodecamp.org/learn) [22 questions]
+
+#### Making your website responsive
+
+there are many of the framworks make your website responsive but here we will learn how to make website response with css only (no framworks). so we will using flex or grid with media queries.
+
+* [build responsive website layout](https://coder-coder.com/build-flexbox-website-layout/)
+
+* [responsive design of the future](https://blog.teamtreehouse.com/responsive-design-of-the-future-with-flexbox)
+
+* This is [15min vedio youtube](https://www.youtube.com/watch?v=WzLuTCRpvag) about make your as intro to media queries.
+
+* [Responsive Web Design - Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp).
+
+
+##### why we need media queries when we using flexbox or grid?
+
+Sometime when using flex box or grid you want to change your structure app from column to row or from row to column or solve some problem you find it in your design.
+
 ### Authors
 [Mohammed M Zourob](https://github.com/dash7ou): [@dash7ou](https://github.com/dash7ou)
