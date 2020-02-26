@@ -151,5 +151,21 @@ there are many of the framworks make your website responsive but here we will le
 
 Sometime when using flex box or grid you want to change your structure app from column to row or from row to column or solve some problem you find it in your design.
 
+
+### Thanks for everyone reaches to this level
+
+now we finishing what we started now we able to go far and go to next level.
+
+the finial points:-
+
+* [Learn Layout](http://learnlayout.com) is a helpful, lightweight, well-ordered guide that covers a lot of concepts in CSS to help you understand how to create a super basic layout. Additional links are provided in each section for more detailed explanations of concepts.
+
+* [CSS Specificity](https://www.smashingmagazine.com/2007/07/css-specificity-things-you-should-know/) is an essential guide to understanding how CSS rules are applied and how CSS works in general.
+
+* [Applied Accessibility](https://www.freecodecamp.org/learn) freecodecamp. (22 point)
+
+Now you learn alot about HTML5 and CSS3 and able to do alot see you in the exercise and projects.
+
+
 ### Authors
 [Mohammed M Zourob](https://github.com/dash7ou): [@dash7ou](https://github.com/dash7ou)
