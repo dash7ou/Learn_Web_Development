@@ -167,5 +167,9 @@ the finial points:-
 Now you learn alot about HTML5 and CSS3 and able to do alot see you in the exercise and projects.
 
 
+## Projects
+
+* [Download this file](https://mega.nz/#!nOh1TByK!4fAWG9qWHBqoI2pHdWTsLCWCe7t4ChwPTpnObriSktU) and you will find design to your first project and sould be responsive with small devices.
+
 ### Authors
 [Mohammed M Zourob](https://github.com/dash7ou): [@dash7ou](https://github.com/dash7ou)
