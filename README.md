@@ -171,16 +171,16 @@ Now you learn alot about HTML5 and CSS3 and able to do alot see you in the exerc
 
 * [Download this file](https://mega.nz/#!nOh1TByK!4fAWG9qWHBqoI2pHdWTsLCWCe7t4ChwPTpnObriSktU) and you will find design to your first project and sould be responsive with small devices.
 
-* Now we have five challenges from freecodecampsite and after all that you ready to challenges:-
+* Now we have five challenges from freecodecamp site and after all you ready to challenges:-
 
-1. [First Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page) this project is a sample page as a begin.
+   1. [First Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page) this project is a sample page as a begin.
 
-2. [Second Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form) learn how to create good forms.
+   2. [Second Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form) learn how to create good forms.
 
-3. [Thrid Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page) Build a Product Landing Page now you learn create page to show your product on it.
+   3. [Thrid Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page) Build a Product Page you learn create page to show your product on it.
 
-4. [Fourth Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)  Build a Technical Documentation Page, learn how to create a good documentation.
+   4. [Fourth Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)  Build a Technical Documentation Page, learn how to create a good documentation.
 
-* Finilay you maby want to create your first portfolio this [finial project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage) you create a portfolio for you.
+* Finilay probably you want to create your first portfolio this [finial project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage) you create a portfolio for you.
 ### Authors
 [Mohammed M Zourob](https://github.com/dash7ou): [@dash7ou](https://github.com/dash7ou)
