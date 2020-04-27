@@ -1,10 +1,10 @@
 # Before Starting
 
-before we go throwing learn programming with JavaScript we need to learn some skills that will help us in our way to professionalism.
+Before we go throwing learn programming with JavaScript we need to learn some skills that will help us in our way to professionalism.
 
 This is some tools needed by programmers to make work faster and easier programming more easy.
 
-### in this course we will learn.
+### In this course we will learn.
 
 * Git
 * GitHub
