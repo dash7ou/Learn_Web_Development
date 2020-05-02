@@ -27,3 +27,14 @@ Arabic Resources:
 
 * [This play list](https://www.youtube.com/watch?v=MAgRHQV9QKc&list=PLMYF6NkLrdN-Su2f00Cbii1u4yd-qk1JO) 
 supplement to the first part after you learn all about git now you want to learn about github and how to deal with it.
+
+### Markdown
+**Learning outcome**
+* Know markdown syntax well enough to create readmes.
+
+**Recources**
+
+* No GitHub repo is complete without proper documentation. [Follow this markdown tutorial](https://www.markdowntutorial.com/lesson/1/) to learn the syntax that you need to write a banging Readme!
+
+### Authors
+[Mohammed M Zourob](https://github.com/dash7ou): [@dash7ou](https://github.com/dash7ou)
