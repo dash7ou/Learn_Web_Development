@@ -28,3 +28,6 @@ This example explan how we get paragraph from our html file using its id;
 * [The ODIN Project](https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulation) i like this document :).
 
 * [This document](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model) will explan all method in dom interfaces, you are not required to study all functions for information only.
+
+### Authors
+[Mohammed M Zourob](https://github.com/dash7ou): [@dash7ou](https://github.com/dash7ou)
