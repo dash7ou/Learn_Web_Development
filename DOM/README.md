@@ -9,6 +9,8 @@ A Web page is a document. This document can be either displayed in the browser w
 This example explan how we get paragraph from our html file using its id;
 
 ```js
-const para = document.getElementById("para");
-const para = document.querySelector("#para");
+
+    const para = document.getElementById("para");
+    const para = document.querySelector("#para");
+    
 ```
