@@ -29,5 +29,7 @@ This example explan how we get paragraph from our html file using its id;
 
 * [This document](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model) will explan all method in dom interfaces, you are not required to study all functions for information only.
 
+* [30 day vanila javascript](https://www.youtube.com/watch?v=VuN8qwZoego&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH).
+
 ### Authors
 [Mohammed M Zourob](https://github.com/dash7ou): [@dash7ou](https://github.com/dash7ou)
